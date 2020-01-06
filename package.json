@@ -1,6 +1,6 @@
 {
     "name": "iqs-clients-objectgroups-node",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "Conceptual Vision Consulting LLC",
     "description": "Node.js client sdk for groups microservice",
     "contributors": [
@@ -52,6 +52,6 @@
         "restify": "^4.3.0",
         "chai": "*",
         "mocha": "*",
-        "iqs-services-objectgroups-node": "^0.1.0"
+        "iqs-services-objectgroups-node": "^1.0.0"
     }
 }
